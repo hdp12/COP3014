@@ -1,0 +1,29 @@
+Cola
+0.75   
+20
+RubyRedBlast
+1.00   
+10
+LemonFizz
+0.75   
+8
+GrapeSoda
+0.90   
+5
+CitrusFlip
+0.85  
+0
+HabaneroSurprise
+0.80   
+11
+8   // to test the invalid option checker
+9   // to test the loop on that
+5   // to test the sold out checker
+3   // to choose an actual option
+N   // to run the program again and not exit yet
+7   // choose a valid option
+/* option 1, exit during sodaChoice() function by pressing 0 */
+N   // runs program again
+0   // chooses the exit option from the choices
+/* option 2, exit when prompted at the end of main function */
+Y   // chooses yes from the prompt
